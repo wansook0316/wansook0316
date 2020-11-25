@@ -26,7 +26,7 @@ I majored in **mechanical engineering** and **software convergence** in multiple
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **:mortar_board: Education** | 2015. 03 ~ 2021. 02 | Department of Mechanical engineering, Software | **KyungHee University** |
+| **:mortar_board: Education** | 2015. 03 ~ 2022. 02 | Department of Mechanical engineering, Software | **KyungHee University** |
 | **Work Experience** | 2020. 09 ~ 10 | Software Intern (Computer Vision, GUI Program) | **Updater** |
 | **Extra Curricular Act** | 2017 .03 ~ 2019 .12 | [Like Lion 6th, 7th](https://likelion.net/) | **LIKE LION** |
 | **External activities** | 2020. 10 ~ | Google MachineLearning BootCamp | **Google Developers** |
