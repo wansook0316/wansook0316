@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 :wave: Hello My name is Wansik, I am a developer hope to work at wonderful company!
 
-I majored in **mechanical engineering** and **software convergence** in multiple majors. I have project experience using **Python(My most confident language)**, Java & Android, c++, and Matlab languages. I am very interested in **machine learning**.
+I majored in **mechanical engineering** and **software convergence** in multiple majors. I have project experience using **Python(My most confident language)**, c++ languages. I am very interested in **machine learning**.
 
 ### :purple_heart: Career
 
