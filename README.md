@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharimkang)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/wansook0316?label=Follow)
 
-:wave: Hello My name is Wansik, I am a developer hope to work at wonderful company!
+:wave: 안녕하세요. 최완식입니다.
 
-I majored in **mechanical engineering** and **software convergence** in multiple majors. I have project experience using **Python(My most confident language)**, python languages. I am very interested in **machine learning**.
+데이터 분석, ML, DL을 시작으로 소프트웨어 공부를 시작했으며, 현재는 User와의 상호작용을 기반으로 한 개발이 하고 싶어, iOS 개발에 도전중입니다.
 
 ### :purple_heart: Career
 
@@ -30,8 +30,10 @@ I majored in **mechanical engineering** and **software convergence** in multiple
 | **Work Experience** | 2020. 09 ~ 10 | Software Intern (Computer Vision, GUI Program) | **Updater** |
 | **Extra Curricular Act** | 2017 .03 ~ 2019 .12 | [Like Lion 6th, 7th](https://likelion.net/) | **LIKE LION** |
 | **External activities** | 2020. 10 ~ | Google MachineLearning BootCamp | **Google Developers** |
+| **External activities** | 2021. 07 ~ | Naver BoostCamp 6th Mobile-iOS | **Naver Connect** |
 | **Open Source Projects** | 2020. 02 ~ 11 | [Data Science for COVID-19 (DS4C)](https://wansook0316.github.io/cv/projects/2020/02/01/Data-Science-for-COVID-19(DS4C).html) | **DS4C Team** |
 | **Awards** | 2019. 07 ~ 2020. 09 | Win the DS competition 3 times in a row | **[Description](https://wansook0316.github.io/about/)** |
+
 
 
 ### :cyclone: Languages
