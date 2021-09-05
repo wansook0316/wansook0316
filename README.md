@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 
 
 ### :cyclone: Languages
-![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white) 
+![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=flat&logo=Python&logoColor=white)
+![SWIFT](https://img.shields.io/badge/Swift-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-D7604B?style=flat&logo=Swift&logoColor=white)
 
 
 ### :mailbox_with_mail: Contacts
