@@ -1,4 +1,4 @@
-
+### :wave: 안녕하세요. 최완식입니다.
 
 <!--
 **wansook0316/wansook0316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-:wave: 안녕하세요. 최완식입니다.
+
 
 데이터 분석, ML, DL을 시작으로 소프트웨어 공부를 시작했으며, 현재는 User와의 상호작용을 기반으로 한 개발이 하고 싶어, iOS 개발에 도전중입니다.
 
