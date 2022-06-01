@@ -1,49 +1,43 @@
-### :wave: 안녕하세요. 최완식입니다.
+<div align=center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharimkang)](https://hits.seeyoufarm.com)
+  
+</div>
 
-<!--
-**wansook0316/wansook0316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### iOS Developer
 
-Here are some ideas to get you started:
+- iOS Developer in Map & Navigation Industry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Interest
+
+- New Apple Product
+- IVI(In-Vehicle Infotainment System)
+- Mentoring, Writing, Presentation, Investment
+
+<div align=center>
+  
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&logoColor=#20c997&link=https://velog.io/@wansook0316/)](https://velog.io/@wansook0316/) [![Writing Blog Badge](http://img.shields.io/badge/-Writing%20blog-EBEBEB?style=flat-square&logo=write.as&logoColor=000000&link=https://brunch.co.kr/@wansook0316)](https://brunch.co.kr/@wansook0316)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wansik-choi-b065881aa/)](https://www.linkedin.com/in/wansik-choi-b065881aa/)
+ [![Twitter Badge](https://img.shields.io/badge/Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=FFFFFF&link=https://twitter.com/WansookDev)](https://twitter.com/WansookDev) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wansook0316@gmail.com)](mailto:wansook0316@gmail.com)
+	
+</div>
+
+
+<!-- 
+나중에 참고할 것
+https://blog.cowkite.com/blog/2102241544/
+https://github.com/matchai/awesome-pinned-gists
 -->
 
+<!-- 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&logoColor=#20c997&link=https://velog.io/@wansook0316/)](https://velog.io/@wansook0316/)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharimkang)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/wansook0316?label=Follow)
+[![Writing Blog Badge](http://img.shields.io/badge/-Writing%20blog-EBEBEB?style=flat-square&logo=write.as&logoColor=000000&link=https://brunch.co.kr/@wansook0316)](https://brunch.co.kr/@wansook0316)
+  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wansik-choi-b065881aa/)](https://www.linkedin.com/in/wansik-choi-b065881aa/)
+	
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=FFFFFF&link=https://twitter.com/WansookDev)](https://twitter.com/WansookDev)
 
-
-
-
-
-데이터 분석, ML, DL을 시작으로 소프트웨어 공부를 시작했으며, 현재는 User와의 상호작용을 기반으로 한 개발이 하고 싶어, iOS 개발에 도전중입니다.
-
-[Portfolio](https://wansook0316.notion.site/17d8c2678e364fffa621f986f7a71764)
-
-### :purple_heart: Career
-
-| **Type** | **Date** | **Contents** | **Organization** |
-|:--------:|:--------:|:--------:|:--------:|
-| **:mortar_board: Education** | 2015. 03 ~ 2022. 02 | Department of Mechanical engineering, Software | **KyungHee University** |
-| **Work Experience** | 2020. 09 ~ 10 | Software Intern (Computer Vision, GUI Program) | **Updater** |
-| **Extra Curricular Act** | 2017 .03 ~ 2019 .12 | [Like Lion 6th, 7th](https://likelion.net/) | **LIKE LION** |
-| **External activities** | 2020. 10 ~ | Google MachineLearning BootCamp | **Google Developers** |
-| **External activities** | 2021. 07 ~ | Naver BoostCamp 6th Mobile-iOS | **Naver Connect** |
-| **Open Source Projects** | 2020. 02 ~ 11 | [Data Science for COVID-19 (DS4C)](https://wansook0316.github.io/cv/projects/2020/02/01/Data-Science-for-COVID-19(DS4C).html) | **DS4C Team** |
-| **Awards** | 2019. 07 ~ 2020. 09 | Win the DS competition 3 times in a row | **[Description](https://wansook0316.github.io/about/)** |
-
-
-
-### :cyclone: Languages
-![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=flat&logo=Python&logoColor=white)
-![SWIFT](https://img.shields.io/badge/Swift-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-D7604B?style=flat&logo=Swift&logoColor=white)
-
-
-### :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wansook0316@gmail.com)](mailto:harimkang4422@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wansik-choi-b065881aa)](https://www.linkedin.com/in/wansik-choi-b065881aa) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://wansook0316.github.io/)](https://wansook0316.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wansook0316@gmail.com)](mailto:wansook0316@gmail.com)
+	
+ -->
