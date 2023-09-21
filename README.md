@@ -16,9 +16,9 @@
 
 <div align=center>
   
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&logoColor=#20c997&link=https://wansook.world/)](https://wansook.world/) [![Writing Blog Badge](http://img.shields.io/badge/-Writing%20blog-EBEBEB?style=flat-square&logo=write.as&logoColor=000000&link=https://brunch.co.kr/@wansook0316)](https://brunch.co.kr/@wansook0316)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=apple&logoColor=#20c997&link=https://wansook.world/)](https://wansook.world/) [![Writing Blog Badge](http://img.shields.io/badge/-Writing%20blog-EBEBEB?style=flat-square&logo=write.as&logoColor=000000&link=https://brunch.co.kr/@wansook0316)](https://brunch.co.kr/@wansook0316)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wansik-choi-b065881aa/)](https://www.linkedin.com/in/wansik-choi-b065881aa/)
- [![Twitter Badge](https://img.shields.io/badge/Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=FFFFFF&link=https://twitter.com/WansookDev)](https://twitter.com/WansookDev) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wansook0316@gmail.com)](mailto:wansook0316@gmail.com)
+ [![Twitter Badge](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=FFFFFF&link=https://twitter.com/WansookChoi)](https://twitter.com/WansookChoi) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wansook0316@gmail.com)](mailto:wansook0316@gmail.com)
 	
 </div>
 
